@@ -1,0 +1,5 @@
+studies AI assistant protoype/
+|
+|- app.py
+|- .gitignore
+|- requirements.txt
