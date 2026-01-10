@@ -1,6 +1,7 @@
 Hello everyone
 
-These are protoype codes that combine Retrieval augmented generation with generative AI elements
+These are protoype codes that combine Retrieval augmented generation with generative AI elements.
+
 Generative AI elements FLAN-T5 modelm text2text generation, and the way answers are generated
 
 One ipynb file for retrieving answers from an Ebook
